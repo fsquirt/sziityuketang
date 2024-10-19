@@ -4,5 +4,5 @@
 然后选择想刷的课程开始刷课
 
 ## 怎么改成我自己学校能用的？
-1.将脚本中的"sziit.yuketang.cn"替换为你学校的雨课堂域名<br>
-2.将脚本中的"2741"替换为你学校的id，在雨课堂的header里可以找到university_id
+1.将脚本中的`sziit.yuketang.cn`替换为你学校的雨课堂域名<br>
+2.将脚本中的`2741`替换为你学校的id，在雨课堂的header里可以找到`university_id`
